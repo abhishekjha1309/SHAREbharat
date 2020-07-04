@@ -38,7 +38,7 @@ The developer does not externally collect any information or data when the servi
 ## Crash reports sending
 
 SHAREbharat is stable and works fine but you may still experience few errors and crashes, information about these crashes are important to us so the issues can be fixed immediately and the software is running efficiently again.
-If you encounter a bug during the use of this software, please email at abhishek@sharebharat.in. <hr>
+If you encounter a bug during the use of this software, please email at admin@sharebharat.in. <hr>
 
 ## Service Providers
 
@@ -74,5 +74,5 @@ The software allows multiple files of different formats to be sent simultaneousl
 
 ## Contact Us
 
-If you have any questions regarding this Privacy Policy or the practices of this software, please contact us by sending an email to abhishek@sharebharat.in.
+If you have any questions regarding this Privacy Policy or the practices of this software, please contact us by sending an email to admin@sharebharat.in.
  
