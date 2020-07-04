@@ -9,6 +9,7 @@ SHAREbharat requires the enablement of the following permissions;
 - location
 - storage
 - telephone
+
 The main permission required to get SHAREbharat functioning is the storage permission, the rest permission are sometimes required to perform some operations but they are optional and can be enabled and disabled anytime at will when not in use.
 
 SHAREbharat have some other capabilities which are functions the software can remotely effect on its own.
